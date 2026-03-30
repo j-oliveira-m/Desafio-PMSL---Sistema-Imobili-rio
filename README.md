@@ -91,7 +91,7 @@ Caso necessário, ajuste os dados no arquivo `conexao.php`.
 
 ---
 
-## 👩‍💻 Autor
+## 👩‍💻 Autora
 
 Julia Oliveira
 
